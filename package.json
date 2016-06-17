@@ -1,6 +1,6 @@
 {
   "name": "hapi-rwroute",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "a Hapi module for automatic routing by specific directory by Rathawut",
   "main": "lib/index.js",
   "scripts": {
