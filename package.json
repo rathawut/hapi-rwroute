@@ -1,13 +1,13 @@
 {
   "name": "hapi-rwroute",
-  "version": "1.2.1",
+  "version": "2.0.0",
   "description": "a Hapi module for automatic routing by specific directory by Rathawut",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "peerDependencies": {
-    "hapi": "16.x.x"
+    "hapi": "17.x.x"
   },
   "repository": {
     "type": "git",
